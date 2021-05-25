@@ -18,6 +18,9 @@ Class Gato(Animal):
   def gruñir(self, onomatopeya):
     onomatopeya="GGGRRRRR"
     return onomatopeya
+  def dormir(self,onomatopeya):
+    onomatopeya="ZZZZZZZ"
+    return onomatopeya
  
 # declaramos un animal
 animal = Gato()
