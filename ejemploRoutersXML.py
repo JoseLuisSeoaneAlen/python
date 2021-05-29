@@ -13,8 +13,8 @@
   </Routers>
 </root>
 
-# guardamos en un archivo llamado «xml_router.txt»
-# importando el modulo de python «xmltodict», leemos los datos en xml e imprimimos en pantalla
+# guardamos en un archivo llamado xml_router.txt
+# importando el modulo de python 'xmltodict', leemos los datos en xml e imprimimos en pantalla
 import xmltodict
  
 with open('xml_router.txt') as xml_data:
